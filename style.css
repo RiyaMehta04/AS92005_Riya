@@ -98,5 +98,15 @@ footer{
     font-weight: bold;
 }
 img {
-  width: 30%;
+  width: 20%;
+}
+
+.footer-btn{
+    background:#9d8484;
+    border:none;
+    border-radius:25px;
+    padding:15px 25px;
+    text-decoration:none;
+    color:black;
+    display:inline-block;
 }
